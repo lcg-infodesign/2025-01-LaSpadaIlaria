@@ -6,3 +6,10 @@ html, body {
 canvas {
   display: block;
 }
+
+
+#title1{
+  margin-left: 6em;
+  text-align: center;
+  color: rgb(191, 9, 47);
+}
